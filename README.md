@@ -4,7 +4,7 @@ This game is my 4th Homework assigment for Columbia University Bootcamp.
 
 The main objective of this was to create a interactive game using HTML, CSS and Jquery.
 
-click [here] (https://rafaelde-leon.github.io/Crystal-Collector/) to play the game.
+click (https://rafaelde-leon.github.io/Crystal-Collector/) to play the game.
 
 ## How to Play 
 
