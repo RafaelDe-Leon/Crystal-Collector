@@ -16,7 +16,7 @@ click [here] (https://rafaelde-leon.github.io/Crystal-Collector/) to play the ga
 ## Notes
 
 * Gems buttons are assigned a number between 1 - 12
-* number is generated between 19 - 120
+* Number is generated between 19 - 120
 
 ## Built Using
 * HTML5
